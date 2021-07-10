@@ -1,7 +1,15 @@
+# Mac OS
 .DS_Store
+
 /.build
 /Packages
 /*.xcodeproj
 xcuserdata/
 DerivedData/
 .swiftpm/xcode/package.xcworkspace/contents.xcworkspacedata
+
+# Cocoapods
+HiraLatinKit.podspec
+
+# Cathage
+Carthage/*
