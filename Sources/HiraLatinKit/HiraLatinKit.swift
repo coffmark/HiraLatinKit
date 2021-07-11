@@ -1,5 +1,6 @@
 import Foundation
 
+@available(iOS 9, macOS 10.11, macCatalyst 13, *)
 extension String {
     /// Convert Hiragana to Latin
     /// - Returns: The converted string.
